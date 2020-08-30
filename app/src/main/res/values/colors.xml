@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1D3FFF</color>
+    <color name="colorPrimaryDark">#00189E</color>
+    <color name="colorAccent">#0121D3</color>
+    <color name="select_point">#3F51B5</color>
+    <color name="unselect_point">#888888</color>
+    <color name="select_track">#BFC7F4</color>
+    <color name="color_button">#0065D1</color>
+</resources>

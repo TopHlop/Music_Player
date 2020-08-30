@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Music Player</string>
+
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="playlist">Next: %1$s - %2$s </string>
+    <string name="message_read_storage_permission_alert_dialog">Without READ_EXTERNAL_STORAGE permission
+        the app is unable to open audios from external storage and cannot work.
+        Are you sure you want to deny this permission?</string>
+    <string name="title_permission_alert_dialog">Permission denied</string>
+    <string name="sure_button">I\'m sure</string>
+    <string name="set_permission_button">Set permission</string>
+</resources>
